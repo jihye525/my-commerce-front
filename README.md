@@ -6,8 +6,7 @@ react, typescript, tailwind
 ## 페이지
 | 랜딩페이지 | 상품 상세보기 |
 |:--:|:--:|
-| <img width="1200" height="900" alt="랜딩페이지" src="https://github.com/user-attachments/assets/f20caca3-6705-4ead-9b2d-cb98c7ead47d" /> | <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4f389f82-bb57-4b89-9ce7-66e261130db1" />
- |
+| <img width="1200" height="900" alt="랜딩페이지" src="https://github.com/user-attachments/assets/f20caca3-6705-4ead-9b2d-cb98c7ead47d" /> | <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/4f389f82-bb57-4b89-9ce7-66e261130db1" />|
 
 | 장바구니 | 주문확인 |
 |:--:|:--:|
