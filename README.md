@@ -4,7 +4,7 @@
 react, typescript, tailwind
 
 ## 페이지
-| 랜딩페이지 | <img width="1165" height="899" alt="image" src="https://github.com/user-attachments/assets/f20caca3-6705-4ead-9b2d-cb98c7ead47d" /> | 
+<div>| 랜딩페이지 | <img width="1165" height="899" alt="image" src="https://github.com/user-attachments/assets/f20caca3-6705-4ead-9b2d-cb98c7ead47d" /> | </div>
 
 | 상품 상세보기 | <img width="1396" height="880" alt="image" src="https://github.com/user-attachments/assets/add4841f-ed65-407b-8008-b69a81485fb7" /> |
 
